@@ -1,0 +1,13 @@
+.tile{
+    background-color: #181925;
+    border-radius: 20px;
+    margin-top: 2rem;
+    text-align: left;
+    padding: 1rem;
+}
+p{
+   color: aliceblue; 
+}
+span{
+    color: #1B998B;
+}
